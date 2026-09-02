@@ -9,12 +9,12 @@ Jak zaintalować?
 Jak uruchomić?
 
 
-proteomika --input "Ścieżka\Proteomika\BK_SET4.csv" --output "Ścieżka\Proteomika\wyniki"
+proteomika --input "Ścieżka\Proteomika\nazwa_pliku.csv" --output "Ścieżka\Proteomika\wyniki"
 
 
 Z niestandardowymi progami:
 
-proteomika --input "Ścieżka\Proteomika\BK_SET4.csv" --output "Ścieżka\Proteomika\wyniki" --fc 0.58 --pvalue 0.05
+proteomika --input "Ścieżka\Proteomika\nazwa_pliku.csv" --output "Ścieżka\Proteomika\wyniki" --fc 0.58 --pvalue 0.05
 
 
 Z profilowaniem:
